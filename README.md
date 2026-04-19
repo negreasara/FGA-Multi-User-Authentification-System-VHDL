@@ -1,5 +1,6 @@
 # FGA-Multi-User-Authentification-System-VHDL
 Simple digital "combination lock" project implemented using a Basys3 FPGA Board using **VHDL** and **Vivado**.
+Includes VHDL code and **State Diagram** in the Files section.
 
 ## Working principle:
 
